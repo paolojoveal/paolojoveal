@@ -2,7 +2,7 @@
   <img src="banner.svg" width="100%" alt="Paolo Jove. Macroeconomía, finanzas y análisis de datos. Lima, Perú. El gráfico muestra la inflación del Perú a 12 meses y la tasa de referencia del BCRP desde 2004.">
 </p>
 
-Estudiante de 8.º semestre (por iniciar el 9.º) en la **Pontificia Universidad Católica del Perú**. Cursé **FM350 Advanced Corporate Finance** en el LSE Summer School. Aquí publico proyectos de macroeconomía, finanzas y análisis de datos aplicados al Perú.
+Estudiante de 8.º semestre (por iniciar el 9.º) en la **Pontificia Universidad Católica del Perú**. Cursé **FM350 Advanced Corporate Finance** de forma presencial en la **London School of Economics (LSE)**, en Londres. Aquí publico proyectos de macroeconomía, finanzas y análisis de datos aplicados al Perú.
 
 **Busco prácticas pre-profesionales en Lima** en finanzas corporativas y banca de inversión, estudios económicos, gestión de riesgos, análisis de datos y auditoría interna.
 
