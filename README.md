@@ -39,3 +39,13 @@ Estudiante de 8.º semestre (por iniciar el 9.º) en la **Pontificia Universidad
     </td>
   </tr>
 </table>
+
+## Cómo trabajo
+
+- **Los datos se verifican antes de usarse.** Cada serie del BCRP se comprueba contra su nombre oficial al descargarla, y una descarga incompleta no se guarda.
+- **Cada cálculo tiene una prueba con respuesta conocida.** Los tres repositorios corren sus pruebas en GitHub Actions: comparaciones con `statsmodels`, fórmulas cerradas y datos simulados con parámetros conocidos.
+- **Los límites van escritos.** Cada README dice qué supuestos sostienen el resultado y qué no se puede concluir de él.
+
+## Herramientas
+
+Python (pandas, NumPy, statsmodels, scikit-learn, matplotlib, Plotly, Streamlit) · SQL · Git y GitHub Actions · Excel
